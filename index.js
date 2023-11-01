@@ -7,7 +7,7 @@ function solveCoinChange() {
 }
 
 function generateFibonacci() {
-    window.location.href = 'fibonnaci.html'
+    window.location.href = 'Fibonnaci.html'
 }
 
 function multiplyMatrices() {
